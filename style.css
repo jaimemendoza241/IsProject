@@ -1,0 +1,45 @@
+/* General page styling */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+/* Title */
+h1 {
+  color: #2c3e50;
+  text-align: center;
+}
+
+/* Portrait image */
+.portrait {
+  display: block;
+  margin: 0 auto;
+  width: 150px;
+  border-radius: 50%;
+}
+
+/* Section headers */
+h2 {
+  margin-top: 20px;
+  color: #34495e;
+}
+
+/* Table styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 15px;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  font-weight: bold;
+  background-color: #eaeaea;
+}
