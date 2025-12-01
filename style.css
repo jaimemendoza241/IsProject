@@ -14,10 +14,11 @@ h1 {
 
 /* Portrait image */
 .portrait {
+  height: auto;
   display: block;
   margin: 0 auto;
   width: 150px;
-  border-radius: 50%;
+  border-radius: 20%;
 }
 
 /* Section headers */
@@ -42,4 +43,5 @@ th, td {
 th {
   font-weight: bold;
   background-color: #eaeaea;
+
 }
