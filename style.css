@@ -14,7 +14,7 @@ h1 {
 
 /* Portrait image */
 .portrait {
-  width: 200 px;
+  width: 150 px;
   height: auto;
   border-radius:20%;
   display: block;
@@ -45,6 +45,7 @@ th {
   background-color: #eaeaea;
 
 }
+
 
 
 
